@@ -1,2 +1,2 @@
-# whale-id
-Humpback Whale Identification
+# Humpback Whale Identification
+Kaggle competition https://www.kaggle.com/c/humpback-whale-identification/overview
